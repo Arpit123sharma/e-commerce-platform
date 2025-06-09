@@ -45,43 +45,56 @@
 
 ---
 
-## 📸 Screenshots
-<!-- You place the image section here -->
-<p float="left">
-  <img src="./frontend/public/loading-page.png" width="300"/>
-  <img src="./frontend/public/login.png" width="300"/>
-  <img src="./frontend/public/analytics.png" width="300"/>
-  <img src="./frontend/public/cart.png" width="300"/>
-  <img src="./frontend/public/stripe.png" width="300"/>
+### 📸 Screenshots
+
+<p align="center">
+  <img src="./frontend/public/loading-page.png" width="250" />
+  <img src="./frontend/public/login.png" width="250" />
+  <img src="./frontend/public/analytics.png" width="250" />
+</p>
+<p align="center">
+  <img src="./frontend/public/cart.png" width="250" />
+  <img src="./frontend/public/stripe.png" width="250" />
 </p>
 
-## 🛠️ Environment Variables
-<!-- Add this after screenshots -->
+---
+
+### 🛠️ Environment Variables
+
+Create a `.env` file in the `backend` directory and add the following:
+
+```env
 PORT=5000
 MONGO_URI=your_mongo_uri
 UPSTASH_REDIS_URL=your_redis_url
+
 ACCESS_TOKEN_SECRET=your_access_token_secret
 REFRESH_TOKEN_SECRET=your_refresh_token_secret
+
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
+
 STRIPE_SECRET_KEY=your_stripe_secret_key
 CLIENT_URL=http://localhost:5173
 NODE_ENV=development
+```
+---
 
-
-# Install backend dependencies
+## 📦 Install backend dependencies
 cd backend && npm install
 
-# Install frontend dependencies
+## 📦 Install frontend dependencies
 cd ../frontend && npm install
 
-# Build frontend
+## 🏗️ Build frontend
 npm run build
 
-# Start backend server
+## 🚀 Start backend server
 cd ../backend && npm run start
 
-## License
+---
+
+## 📄 License
 
 This project is licensed under the [MIT License](./LICENSE).

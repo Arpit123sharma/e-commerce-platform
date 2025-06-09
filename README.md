@@ -41,7 +41,7 @@
 - 🖼️ Cloudinary Image Uploads
 - 🚀 Redis-based Caching
 - 🔄 Robust Token Handling
-- 💡 Fully Responsive UI with 32+ theme options (optional if implemented)
+
 
 ---
 

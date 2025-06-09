@@ -1,7 +1,7 @@
-<h1 align="center">🛒 Streamify E-Commerce Store</h1>
+<h1 align="center">🛒 E-Commerce store</h1>
 
 <p align="center">
-  <img src="./frontend/public/screenshot-for-readme.png" alt="App Screenshot" width="700"/>
+  <img src="./frontend/public/landing-page.png" alt="App Screenshot" width="700"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Live Demo (Optional)
+### 🚀 Live Demo 
 <!-- Replace with your live link -->
 [🌐 Visit Live Site](https://your-deployment-link.com)
 
@@ -81,20 +81,20 @@ NODE_ENV=development
 ```
 ---
 
-## 📦 Install backend dependencies
+### 📦 Install backend dependencies
 cd backend && npm install
 
-## 📦 Install frontend dependencies
+### 📦 Install frontend dependencies
 cd ../frontend && npm install
 
-## 🏗️ Build frontend
+### 🏗️ Build frontend
 npm run build
 
-## 🚀 Start backend server
+### 🚀 Start backend server
 cd ../backend && npm run start
 
 ---
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the [MIT License](./LICENSE).

@@ -1,7 +1,7 @@
 <h1 align="center">🛒 E-Commerce store</h1>
 
 <p align="center">
-  <img src="./frontend/public/landing-page.png" alt="App Screenshot" width="700"/>
+  <img src="./frontend/public/loading-page.png" alt="App Screenshot" width="700"/>
 </p>
 
 <p align="center">

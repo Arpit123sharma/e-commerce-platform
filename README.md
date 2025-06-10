@@ -12,7 +12,7 @@
 
 ### 🚀 Live Demo 
 <!-- Replace with your live link -->
-[🌐 Visit Live Site](https://your-deployment-link.com)
+[🌐 Visit Live Site](https://e-commerce-store-fzy2.onrender.com)
 
 ---
 
